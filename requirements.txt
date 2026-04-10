@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+google-genai
+pinecone
+cohere
+openai
+PyPDF2
+python-dotenv
+pydantic
+requests
+python-docx
+rank-bm25
